@@ -1,0 +1,28 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: flightbookingsystemsample-ingress
+  annotations:
+    nginx.ingress.kubernetes.io/ssl-redirect: "false"
+    nginx.ingress.kubernetes.io/use-regex: "true"
+    nginx.ingress.kubernetes.io/rewrite-target: /$2
+spec:
+  ingressClassName: nginx
+  rules:
+  - host: <NEW-DNS-LABEL>.westeurope.cloudapp.azure.com
+    http:
+      paths:
+      - path: /website(/|$)(.*)
+        pathType: Prefix
+        backend:
+          service:
+            name: flightbookingsystemsample
+            port:
+              number: 80
+      - path: /_apis(/|$)(.*)
+        pathType: Prefix
+        backend:
+          service:
+            name: flightbookingsystemapis
+            port:
+              number: 80

@@ -1,0 +1,88 @@
+# $AZ_TENANT_ID = "2bf80a97-feeb-4ffa-be69-14c56f49312d"
+# $AZ_SUBSCRIPTION_ID = "16cfc856-c2f1-4103-80c3-8deba1743963"
+# $AZ_RESOURCE_GROUP = "nov22-trainee-<numbering>"
+# $AZ_CONTAINER_REGISTRY = "acrakstrainee<numbering>"
+# $AZ_KUBERNETES_CLUSTER = "akstrainee<numbering>"
+# $NEW_DNS_LABEL = "akstrainee<numbering>"
+# $AZ_KEYVAULT_NAME = "kvakstrainee<numbering>"
+
+######## trainee01 ###########
+$AZ_TENANT_ID = "2bf80a97-feeb-4ffa-be69-14c56f49312d"
+$AZ_SUBSCRIPTION_ID = "16cfc856-c2f1-4103-80c3-8deba1743963"
+$AZ_RESOURCE_GROUP = "nov22-trainee-1"
+$AZ_CONTAINER_REGISTRY = "acrakstrainee01"
+$AZ_KUBERNETES_CLUSTER = "akstrainee01"
+$NEW_DNS_LABEL = "akstrainee01"
+$AZ_KEYVAULT_NAME = "kvakstrainee01"
+
+######## trainee02 ###########
+$AZ_TENANT_ID = "2bf80a97-feeb-4ffa-be69-14c56f49312d"
+$AZ_SUBSCRIPTION_ID = "16cfc856-c2f1-4103-80c3-8deba1743963"
+$AZ_RESOURCE_GROUP = "nov22-trainee-2"
+$AZ_CONTAINER_REGISTRY = "acrakstrainee02"
+$AZ_KUBERNETES_CLUSTER = "akstrainee02"
+$NEW_DNS_LABEL = "akstrainee02"
+$AZ_KEYVAULT_NAME = "kvakstrainee02"
+
+######## trainee03 ###########
+$AZ_TENANT_ID = "2bf80a97-feeb-4ffa-be69-14c56f49312d"
+$AZ_SUBSCRIPTION_ID = "16cfc856-c2f1-4103-80c3-8deba1743963"
+$AZ_RESOURCE_GROUP = "nov22-trainee-3"
+$AZ_CONTAINER_REGISTRY = "acrakstrainee03"
+$AZ_KUBERNETES_CLUSTER = "akstrainee03"
+$NEW_DNS_LABEL = "akstrainee03"
+$AZ_KEYVAULT_NAME = "kvakstrainee03"
+
+######## trainee04 ###########
+$AZ_TENANT_ID = "2bf80a97-feeb-4ffa-be69-14c56f49312d"
+$AZ_SUBSCRIPTION_ID = "16cfc856-c2f1-4103-80c3-8deba1743963"
+$AZ_RESOURCE_GROUP = "nov22-trainee-4"
+$AZ_CONTAINER_REGISTRY = "acrakstrainee04"
+$AZ_KUBERNETES_CLUSTER = "akstrainee04"
+$NEW_DNS_LABEL = "akstrainee04"
+$AZ_KEYVAULT_NAME = "kvakstrainee04"
+
+######## trainee05 ###########
+$AZ_TENANT_ID = "2bf80a97-feeb-4ffa-be69-14c56f49312d"
+$AZ_SUBSCRIPTION_ID = "16cfc856-c2f1-4103-80c3-8deba1743963"
+$AZ_RESOURCE_GROUP = "nov22-trainee-5"
+$AZ_CONTAINER_REGISTRY = "acrakstrainee05"
+$AZ_KUBERNETES_CLUSTER = "akstrainee05"
+$NEW_DNS_LABEL = "akstrainee05"
+$AZ_KEYVAULT_NAME = "kvakstrainee05"
+
+######## trainee06 ###########
+$AZ_TENANT_ID = "2bf80a97-feeb-4ffa-be69-14c56f49312d"
+$AZ_SUBSCRIPTION_ID = "16cfc856-c2f1-4103-80c3-8deba1743963"
+$AZ_RESOURCE_GROUP = "nov22-trainee-6"
+$AZ_CONTAINER_REGISTRY = "acrakstrainee06"
+$AZ_KUBERNETES_CLUSTER = "akstrainee06"
+$NEW_DNS_LABEL = "akstrainee06"
+$AZ_KEYVAULT_NAME = "kvakstrainee06"
+
+######## trainee07 ###########
+$AZ_TENANT_ID = "2bf80a97-feeb-4ffa-be69-14c56f49312d"
+$AZ_SUBSCRIPTION_ID = "16cfc856-c2f1-4103-80c3-8deba1743963"
+$AZ_RESOURCE_GROUP = "nov22-trainee-7"
+$AZ_CONTAINER_REGISTRY = "acrakstrainee07"
+$AZ_KUBERNETES_CLUSTER = "akstrainee07"
+$NEW_DNS_LABEL = "akstrainee07"
+$AZ_KEYVAULT_NAME = "kvakstrainee07"
+
+######## trainee08 ###########
+$AZ_TENANT_ID = "2bf80a97-feeb-4ffa-be69-14c56f49312d"
+$AZ_SUBSCRIPTION_ID = "16cfc856-c2f1-4103-80c3-8deba1743963"
+$AZ_RESOURCE_GROUP = "nov22-trainee-8"
+$AZ_CONTAINER_REGISTRY = "acrakstrainee08"
+$AZ_KUBERNETES_CLUSTER = "akstrainee08"
+$NEW_DNS_LABEL = "akstrainee08"
+$AZ_KEYVAULT_NAME = "kvakstrainee08"
+
+######## trainee12 ###########
+$AZ_TENANT_ID = "2bf80a97-feeb-4ffa-be69-14c56f49312d"
+$AZ_SUBSCRIPTION_ID = "16cfc856-c2f1-4103-80c3-8deba1743963"
+$AZ_RESOURCE_GROUP = "nov22-trainee-12"
+$AZ_CONTAINER_REGISTRY = "acrakstrainee12"
+$AZ_KUBERNETES_CLUSTER = "akstrainee12"
+$NEW_DNS_LABEL = "akstrainee12"
+$AZ_KEYVAULT_NAME = "kvakstrainee12"
